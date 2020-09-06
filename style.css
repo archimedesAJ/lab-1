@@ -6,6 +6,7 @@
 
 html {
     scroll-behavior: smooth;
+    height: 100%;
 }
 
 body {
@@ -101,6 +102,7 @@ img {
 }
 
 footer {
-    height: 50px; /* the footer's total height */
+    height: 50px;
+    padding: 20px; /* the footer's total height */
   }
   
