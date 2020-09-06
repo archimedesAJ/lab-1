@@ -101,17 +101,6 @@ img {
 }
 
 footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 10px;
-}
-
-footer > span {
-    opacity: 0.5;
-}
-
-footer > span > a {
-    text-decoration: none;
-}
+    height: 50px; /* the footer's total height */
+  }
+  
