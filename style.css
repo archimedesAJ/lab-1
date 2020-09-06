@@ -32,6 +32,11 @@ footer > span > a {
     text-decoration: none;
 }
 
+ul {
+    background: #3399ff;
+    padding: 20px;
+  }
+  
 ul li {
     background: #cce5ff;
     margin: 5px;
