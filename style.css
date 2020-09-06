@@ -101,6 +101,17 @@ img {
     width: 150px;
 }
 
+h2{
+    padding: 10px;
+
+}
+
+p{
+    padding: 15px;
+}
+
+
+
 footer {
     height: 50px;
     padding: 20px; /* the footer's total height */
