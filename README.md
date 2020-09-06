@@ -1,6 +1,7 @@
 # Lab-1 Git Repository Seed
 
 This file is the template for the first lab in Ashesi Web Development 2020.
+Hello, there! My name is Abraham Abbey Junior.g
 
 ## Contents
 
