@@ -110,10 +110,22 @@ p{
     padding: 15px;
 }
 
+.center {
+    display: block;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
-footer {
-    height: 50px;
-    padding: 20px; /* the footer's total height */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
   }
   
