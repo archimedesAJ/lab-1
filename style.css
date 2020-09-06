@@ -31,3 +31,8 @@ footer > span {
 footer > span > a {
     text-decoration: none;
 }
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
